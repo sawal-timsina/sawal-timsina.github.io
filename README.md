@@ -1,1 +1,0 @@
-# sawal-timsina.github.io
