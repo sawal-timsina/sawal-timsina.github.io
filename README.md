@@ -7,10 +7,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://stackoverflow.com/users/6034294/sawal-timsina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7448955" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sawal.timsina/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deepaeshdulal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sawal_timsina/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepaeshdulal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/t-sawal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepaeshdulal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6034294/sawal-timsina" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="7448955" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sawal.timsina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sawal.timsina" height="40" width="40" /></a>
+<a href="https://www.instagram.com/sawal_timsina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sawal_timsina" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/t-sawal/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="t-sawal" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
